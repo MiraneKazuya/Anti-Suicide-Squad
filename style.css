@@ -1,0 +1,9 @@
+body{
+	background-image: url(work.jpg);
+	background-size: cover;
+}
+
+h1{
+	color: white;
+	font-family: Century Gothic;
+}
